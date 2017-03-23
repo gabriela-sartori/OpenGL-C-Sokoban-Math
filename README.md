@@ -3,4 +3,4 @@ Very simple Sokoban game implemented in OpenGL (college project)
 
 Preview
 
-![](giphy.com/embed/l4FGAXGnaEyBlQeGc)
+![](http://giphy.com/embed/l4FGAXGnaEyBlQeGc)
