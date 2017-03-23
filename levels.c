@@ -103,9 +103,9 @@ const char * level_04_str =
     lvl.boxes[4] = buildBox (5, buildPos (5, 7), "5 * 5");
 
     lvl.holes_count = 5; // 4 5 2 3 1
-    lvl.holes[0] = buildHole (1, buildPos (5, 7), "   9");
+    lvl.holes[0] = buildHole (1, buildPos (5, 7), "   1");
     lvl.holes[1] = buildHole (2, buildPos (4, 7), "   4");
-    lvl.holes[2] = buildHole (3, buildPos (6, 7), "   1");
+    lvl.holes[2] = buildHole (3, buildPos (6, 7), "   9");
     lvl.holes[3] = buildHole (4, buildPos (3, 6), "  16");
     lvl.holes[4] = buildHole (5, buildPos (3, 7), "  25");
 
