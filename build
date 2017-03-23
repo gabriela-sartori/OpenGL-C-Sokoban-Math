@@ -1,0 +1,1 @@
+clear && g++ -x c main.c -framework OpenGL -framework GLUT -o final && ./final
